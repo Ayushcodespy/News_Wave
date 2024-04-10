@@ -1,4 +1,4 @@
-# bnews
+# News_Wave
 
 A new Flutter project.
 
